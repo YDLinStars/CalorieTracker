@@ -1,0 +1,7 @@
+{
+  "name": "NutriLens",
+  "description": "AI-powered calorie tracker and nutrition assistant.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
